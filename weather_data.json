@@ -1,0 +1,4488 @@
+{
+    "weather1": [
+        {
+            "region": "\u0110\u00e0 N\u1eb5ng",
+            "temp_now": "29",
+            "dayhour": "Th\u1ee9 S\u00e1u 20:00",
+            "weather_now": "Tr\u1eddi trong, th\u1ec9nh tho\u1ea3ng c\u00f3 m\u00e2y",
+            "precipitation": "50%",
+            "humidity": "79%",
+            "wind": "5 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "26"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "Tr\u1eddi nhi\u1ec1u n\u1eafng",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                }
+            ]
+        },
+        {
+            "region": "H\u00e0 N\u1ed9i, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i",
+            "temp_now": "27",
+            "dayhour": "Th\u1ee9 S\u00e1u 20:00",
+            "weather_now": "Tr\u1eddi trong, th\u1ec9nh tho\u1ea3ng c\u00f3 m\u00e2y",
+            "precipitation": "33%",
+            "humidity": "85%",
+            "wind": "0 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "C\u00f3 gi\u00f4ng v\u00e0i n\u01a1i",
+                    "max_temp": "29",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                }
+            ]
+        },
+        {
+            "region": "H\u1ed3 Ch\u00ed Minh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+            "temp_now": "29",
+            "dayhour": "Th\u1ee9 S\u00e1u 20:00",
+            "weather_now": "M\u00e2y r\u1ea3i r\u00e1c",
+            "precipitation": "65%",
+            "humidity": "82%",
+            "wind": "13 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "C\u00f3 gi\u00f4ng v\u00e0i n\u01a1i",
+                    "max_temp": "33",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                }
+            ]
+        },
+        {
+            "region": "\u0110\u00e0 N\u1eb5ng",
+            "temp_now": "28",
+            "dayhour": "Th\u1ee9 S\u00e1u 20:00",
+            "weather_now": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+            "precipitation": "50%",
+            "humidity": "82%",
+            "wind": "8 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "26"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "Tr\u1eddi nhi\u1ec1u n\u1eafng",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                }
+            ]
+        },
+        {
+            "region": "H\u00e0 N\u1ed9i, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i",
+            "temp_now": "27",
+            "dayhour": "Th\u1ee9 S\u00e1u 20:00",
+            "weather_now": "Tr\u1eddi trong, th\u1ec9nh tho\u1ea3ng c\u00f3 m\u00e2y",
+            "precipitation": "33%",
+            "humidity": "85%",
+            "wind": "0 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "C\u00f3 gi\u00f4ng v\u00e0i n\u01a1i",
+                    "max_temp": "29",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                }
+            ]
+        },
+        {
+            "region": "H\u1ed3 Ch\u00ed Minh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+            "temp_now": "29",
+            "dayhour": "Th\u1ee9 S\u00e1u 20:00",
+            "weather_now": "M\u00e2y r\u1ea3i r\u00e1c",
+            "precipitation": "65%",
+            "humidity": "82%",
+            "wind": "13 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "C\u00f3 gi\u00f4ng v\u00e0i n\u01a1i",
+                    "max_temp": "33",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                }
+            ]
+        },
+        {
+            "region": "\u0110\u00e0 N\u1eb5ng",
+            "temp_now": "28",
+            "dayhour": "Th\u1ee9 S\u00e1u 20:00",
+            "weather_now": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+            "precipitation": "50%",
+            "humidity": "82%",
+            "wind": "8 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "26"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "Tr\u1eddi nhi\u1ec1u n\u1eafng",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                }
+            ]
+        },
+        {
+            "region": "H\u00e0 N\u1ed9i, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i",
+            "temp_now": "27",
+            "dayhour": "Th\u1ee9 S\u00e1u 20:00",
+            "weather_now": "Tr\u1eddi trong, th\u1ec9nh tho\u1ea3ng c\u00f3 m\u00e2y",
+            "precipitation": "33%",
+            "humidity": "85%",
+            "wind": "0 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "C\u00f3 gi\u00f4ng v\u00e0i n\u01a1i",
+                    "max_temp": "29",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                }
+            ]
+        },
+        {
+            "region": "H\u1ed3 Ch\u00ed Minh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+            "temp_now": "29",
+            "dayhour": "Th\u1ee9 S\u00e1u 20:00",
+            "weather_now": "M\u00e2y r\u1ea3i r\u00e1c",
+            "precipitation": "65%",
+            "humidity": "82%",
+            "wind": "13 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "C\u00f3 gi\u00f4ng v\u00e0i n\u01a1i",
+                    "max_temp": "33",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                }
+            ]
+        },
+        {
+            "region": "\u0110\u00e0 N\u1eb5ng",
+            "temp_now": "28",
+            "dayhour": "Th\u1ee9 S\u00e1u 20:00",
+            "weather_now": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+            "precipitation": "50%",
+            "humidity": "82%",
+            "wind": "8 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "26"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "Tr\u1eddi nhi\u1ec1u n\u1eafng",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                }
+            ]
+        },
+        {
+            "region": "H\u00e0 N\u1ed9i, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i",
+            "temp_now": "27",
+            "dayhour": "Th\u1ee9 S\u00e1u 20:00",
+            "weather_now": "Tr\u1eddi trong, th\u1ec9nh tho\u1ea3ng c\u00f3 m\u00e2y",
+            "precipitation": "33%",
+            "humidity": "85%",
+            "wind": "0 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "C\u00f3 gi\u00f4ng v\u00e0i n\u01a1i",
+                    "max_temp": "29",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                }
+            ]
+        },
+        {
+            "region": "H\u1ed3 Ch\u00ed Minh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+            "temp_now": "29",
+            "dayhour": "Th\u1ee9 S\u00e1u 20:00",
+            "weather_now": "M\u00e2y r\u1ea3i r\u00e1c",
+            "precipitation": "65%",
+            "humidity": "82%",
+            "wind": "13 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "C\u00f3 gi\u00f4ng v\u00e0i n\u01a1i",
+                    "max_temp": "33",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                }
+            ]
+        },
+        {
+            "region": "\u0110\u00e0 N\u1eb5ng",
+            "temp_now": "28",
+            "dayhour": "Th\u1ee9 S\u00e1u 20:00",
+            "weather_now": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+            "precipitation": "50%",
+            "humidity": "82%",
+            "wind": "8 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "26"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "Tr\u1eddi nhi\u1ec1u n\u1eafng",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                }
+            ]
+        },
+        {
+            "region": "H\u00e0 N\u1ed9i, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i",
+            "temp_now": "27",
+            "dayhour": "Th\u1ee9 S\u00e1u 20:00",
+            "weather_now": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+            "precipitation": "40%",
+            "humidity": "84%",
+            "wind": "8 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "C\u00f3 gi\u00f4ng v\u00e0i n\u01a1i",
+                    "max_temp": "29",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "30",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "24"
+                }
+            ]
+        },
+        {
+            "region": "H\u1ed3 Ch\u00ed Minh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+            "temp_now": "29",
+            "dayhour": "Th\u1ee9 S\u00e1u 20:00",
+            "weather_now": "M\u00e2y r\u1ea3i r\u00e1c",
+            "precipitation": "61%",
+            "humidity": "82%",
+            "wind": "13 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "C\u00f3 gi\u00f4ng v\u00e0i n\u01a1i",
+                    "max_temp": "33",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                }
+            ]
+        },
+        {
+            "region": "\u0110\u00e0 N\u1eb5ng",
+            "temp_now": "28",
+            "dayhour": "Th\u1ee9 S\u00e1u 20:00",
+            "weather_now": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+            "precipitation": "50%",
+            "humidity": "82%",
+            "wind": "8 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "26"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "Tr\u1eddi nhi\u1ec1u n\u1eafng",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                }
+            ]
+        },
+        {
+            "region": "H\u00e0 N\u1ed9i, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i",
+            "temp_now": "27",
+            "dayhour": "Th\u1ee9 S\u00e1u 20:00",
+            "weather_now": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+            "precipitation": "40%",
+            "humidity": "84%",
+            "wind": "8 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "C\u00f3 gi\u00f4ng v\u00e0i n\u01a1i",
+                    "max_temp": "29",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "30",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "24"
+                }
+            ]
+        },
+        {
+            "region": "H\u1ed3 Ch\u00ed Minh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+            "temp_now": "29",
+            "dayhour": "Th\u1ee9 S\u00e1u 20:00",
+            "weather_now": "M\u00e2y r\u1ea3i r\u00e1c",
+            "precipitation": "61%",
+            "humidity": "82%",
+            "wind": "13 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "C\u00f3 gi\u00f4ng v\u00e0i n\u01a1i",
+                    "max_temp": "33",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                }
+            ]
+        },
+        {
+            "region": "\u0110\u00e0 N\u1eb5ng",
+            "temp_now": "28",
+            "dayhour": "Th\u1ee9 S\u00e1u 20:00",
+            "weather_now": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+            "precipitation": "50%",
+            "humidity": "82%",
+            "wind": "8 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "26"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "Tr\u1eddi nhi\u1ec1u n\u1eafng",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                }
+            ]
+        },
+        {
+            "region": "H\u00e0 N\u1ed9i, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i",
+            "temp_now": "27",
+            "dayhour": "Th\u1ee9 S\u00e1u 20:00",
+            "weather_now": "Tr\u1eddi trong, th\u1ec9nh tho\u1ea3ng c\u00f3 m\u00e2y",
+            "precipitation": "40%",
+            "humidity": "82%",
+            "wind": "3 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "C\u00f3 gi\u00f4ng v\u00e0i n\u01a1i",
+                    "max_temp": "29",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "30",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "24"
+                }
+            ]
+        },
+        {
+            "region": "H\u1ed3 Ch\u00ed Minh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+            "temp_now": "28",
+            "dayhour": "Th\u1ee9 S\u00e1u 20:00",
+            "weather_now": "M\u00e2y r\u1ea3i r\u00e1c",
+            "precipitation": "61%",
+            "humidity": "85%",
+            "wind": "18 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "C\u00f3 gi\u00f4ng v\u00e0i n\u01a1i",
+                    "max_temp": "33",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                }
+            ]
+        },
+        {
+            "region": "\u0110\u00e0 N\u1eb5ng",
+            "temp_now": "28",
+            "dayhour": "Th\u1ee9 S\u00e1u 20:00",
+            "weather_now": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+            "precipitation": "48%",
+            "humidity": "82%",
+            "wind": "8 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "C\u00f3 gi\u00f4ng v\u00e0i n\u01a1i",
+                    "max_temp": "32",
+                    "min_temp": "26"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "Tr\u1eddi nhi\u1ec1u n\u1eafng",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                }
+            ]
+        },
+        {
+            "region": "H\u00e0 N\u1ed9i, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i",
+            "temp_now": "27",
+            "dayhour": "Th\u1ee9 S\u00e1u 20:00",
+            "weather_now": "Tr\u1eddi trong, th\u1ec9nh tho\u1ea3ng c\u00f3 m\u00e2y",
+            "precipitation": "40%",
+            "humidity": "82%",
+            "wind": "3 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "C\u00f3 gi\u00f4ng v\u00e0i n\u01a1i",
+                    "max_temp": "29",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "30",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "24"
+                }
+            ]
+        },
+        {
+            "region": "H\u1ed3 Ch\u00ed Minh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+            "temp_now": "28",
+            "dayhour": "Th\u1ee9 S\u00e1u 20:00",
+            "weather_now": "M\u00e2y r\u1ea3i r\u00e1c",
+            "precipitation": "61%",
+            "humidity": "85%",
+            "wind": "18 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "C\u00f3 gi\u00f4ng v\u00e0i n\u01a1i",
+                    "max_temp": "33",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                }
+            ]
+        },
+        {
+            "region": "\u0110\u00e0 N\u1eb5ng",
+            "temp_now": "28",
+            "dayhour": "Th\u1ee9 S\u00e1u 20:00",
+            "weather_now": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+            "precipitation": "48%",
+            "humidity": "82%",
+            "wind": "8 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "C\u00f3 gi\u00f4ng v\u00e0i n\u01a1i",
+                    "max_temp": "32",
+                    "min_temp": "26"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "Tr\u1eddi nhi\u1ec1u n\u1eafng",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                }
+            ]
+        },
+        {
+            "region": "H\u00e0 N\u1ed9i, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i",
+            "temp_now": "27",
+            "dayhour": "Th\u1ee9 S\u00e1u 20:00",
+            "weather_now": "Tr\u1eddi trong, th\u1ec9nh tho\u1ea3ng c\u00f3 m\u00e2y",
+            "precipitation": "40%",
+            "humidity": "82%",
+            "wind": "3 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "C\u00f3 gi\u00f4ng v\u00e0i n\u01a1i",
+                    "max_temp": "29",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "30",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "24"
+                }
+            ]
+        },
+        {
+            "region": "H\u1ed3 Ch\u00ed Minh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+            "temp_now": "28",
+            "dayhour": "Th\u1ee9 S\u00e1u 20:00",
+            "weather_now": "M\u00e2y r\u1ea3i r\u00e1c",
+            "precipitation": "61%",
+            "humidity": "85%",
+            "wind": "18 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "C\u00f3 gi\u00f4ng v\u00e0i n\u01a1i",
+                    "max_temp": "33",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                }
+            ]
+        },
+        {
+            "region": "\u0110\u00e0 N\u1eb5ng",
+            "temp_now": "28",
+            "dayhour": "Th\u1ee9 S\u00e1u 20:00",
+            "weather_now": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+            "precipitation": "48%",
+            "humidity": "82%",
+            "wind": "8 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "C\u00f3 gi\u00f4ng v\u00e0i n\u01a1i",
+                    "max_temp": "32",
+                    "min_temp": "26"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "Tr\u1eddi nhi\u1ec1u n\u1eafng",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                }
+            ]
+        },
+        {
+            "region": "H\u00e0 N\u1ed9i, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i",
+            "temp_now": "27",
+            "dayhour": "Th\u1ee9 S\u00e1u 20:00",
+            "weather_now": "Tr\u1eddi trong, th\u1ec9nh tho\u1ea3ng c\u00f3 m\u00e2y",
+            "precipitation": "40%",
+            "humidity": "82%",
+            "wind": "3 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "C\u00f3 gi\u00f4ng v\u00e0i n\u01a1i",
+                    "max_temp": "29",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "30",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "24"
+                }
+            ]
+        },
+        {
+            "region": "H\u1ed3 Ch\u00ed Minh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+            "temp_now": "28",
+            "dayhour": "Th\u1ee9 S\u00e1u 20:00",
+            "weather_now": "M\u00e2y r\u1ea3i r\u00e1c",
+            "precipitation": "61%",
+            "humidity": "85%",
+            "wind": "18 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "C\u00f3 gi\u00f4ng v\u00e0i n\u01a1i",
+                    "max_temp": "33",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                }
+            ]
+        },
+        {
+            "region": "\u0110\u00e0 N\u1eb5ng",
+            "temp_now": "28",
+            "dayhour": "Th\u1ee9 S\u00e1u 20:00",
+            "weather_now": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+            "precipitation": "48%",
+            "humidity": "82%",
+            "wind": "8 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "C\u00f3 gi\u00f4ng v\u00e0i n\u01a1i",
+                    "max_temp": "32",
+                    "min_temp": "26"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "Tr\u1eddi nhi\u1ec1u n\u1eafng",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                }
+            ]
+        },
+        {
+            "region": "H\u00e0 N\u1ed9i, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i",
+            "temp_now": "27",
+            "dayhour": "Th\u1ee9 S\u00e1u 21:00",
+            "weather_now": "Tr\u1eddi trong, th\u1ec9nh tho\u1ea3ng c\u00f3 m\u00e2y",
+            "precipitation": "34%",
+            "humidity": "82%",
+            "wind": "3 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "C\u00f3 gi\u00f4ng v\u00e0i n\u01a1i",
+                    "max_temp": "29",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "30",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                }
+            ]
+        },
+        {
+            "region": "H\u1ed3 Ch\u00ed Minh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+            "temp_now": "28",
+            "dayhour": "Th\u1ee9 S\u00e1u 21:00",
+            "weather_now": "M\u00e2y r\u1ea3i r\u00e1c",
+            "precipitation": "52%",
+            "humidity": "85%",
+            "wind": "11 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "C\u00f3 gi\u00f4ng v\u00e0i n\u01a1i",
+                    "max_temp": "33",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                }
+            ]
+        },
+        {
+            "region": "\u0110\u00e0 N\u1eb5ng",
+            "temp_now": "27",
+            "dayhour": "Th\u1ee9 S\u00e1u 21:00",
+            "weather_now": "M\u00e2y r\u1ea3i r\u00e1c",
+            "precipitation": "52%",
+            "humidity": "85%",
+            "wind": "8 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "C\u00f3 gi\u00f4ng v\u00e0i n\u01a1i",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                }
+            ]
+        },
+        {
+            "region": "H\u00e0 N\u1ed9i, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i",
+            "temp_now": "27",
+            "dayhour": "Th\u1ee9 S\u00e1u 21:00",
+            "weather_now": "Tr\u1eddi trong, th\u1ec9nh tho\u1ea3ng c\u00f3 m\u00e2y",
+            "precipitation": "34%",
+            "humidity": "82%",
+            "wind": "3 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "C\u00f3 gi\u00f4ng v\u00e0i n\u01a1i",
+                    "max_temp": "29",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "30",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                }
+            ]
+        },
+        {
+            "region": "H\u1ed3 Ch\u00ed Minh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+            "temp_now": "28",
+            "dayhour": "Th\u1ee9 S\u00e1u 21:00",
+            "weather_now": "M\u00e2y r\u1ea3i r\u00e1c",
+            "precipitation": "52%",
+            "humidity": "85%",
+            "wind": "11 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "C\u00f3 gi\u00f4ng v\u00e0i n\u01a1i",
+                    "max_temp": "33",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                }
+            ]
+        },
+        {
+            "region": "\u0110\u00e0 N\u1eb5ng",
+            "temp_now": "27",
+            "dayhour": "Th\u1ee9 S\u00e1u 21:00",
+            "weather_now": "M\u00e2y r\u1ea3i r\u00e1c",
+            "precipitation": "52%",
+            "humidity": "85%",
+            "wind": "8 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "C\u00f3 gi\u00f4ng v\u00e0i n\u01a1i",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                }
+            ]
+        },
+        {
+            "region": "H\u00e0 N\u1ed9i, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i",
+            "temp_now": "29",
+            "dayhour": "Ch\u1ee7 Nh\u1eadt 21:00",
+            "weather_now": "Tr\u1eddi trong, th\u1ec9nh tho\u1ea3ng c\u00f3 m\u00e2y",
+            "precipitation": "14%",
+            "humidity": "74%",
+            "wind": "13 km/h",
+            "next_days": [
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "Nhi\u1ec1u m\u00e2y",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "Nhi\u1ec1u m\u00e2y",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "M\u00e2y r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                }
+            ]
+        },
+        {
+            "region": "H\u1ed3 Ch\u00ed Minh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+            "temp_now": "27",
+            "dayhour": "Ch\u1ee7 Nh\u1eadt 21:00",
+            "weather_now": "M\u00e2y r\u1ea3i r\u00e1c",
+            "precipitation": "16%",
+            "humidity": "85%",
+            "wind": "11 km/h",
+            "next_days": [
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "C\u00f3 gi\u00f4ng v\u00e0i n\u01a1i",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                }
+            ]
+        },
+        {
+            "region": "\u0110\u00e0 N\u1eb5ng",
+            "temp_now": "28",
+            "dayhour": "Ch\u1ee7 Nh\u1eadt 21:00",
+            "weather_now": "M\u00e2y r\u1ea3i r\u00e1c",
+            "precipitation": "67%",
+            "humidity": "79%",
+            "wind": "3 km/h",
+            "next_days": [
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "Tr\u1eddi nhi\u1ec1u n\u1eafng",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "C\u00f3 gi\u00f4ng v\u00e0i n\u01a1i",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                }
+            ]
+        },
+        {
+            "region": "H\u00e0 N\u1ed9i, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i",
+            "temp_now": "29",
+            "dayhour": "Ch\u1ee7 Nh\u1eadt 21:00",
+            "weather_now": "Tr\u1eddi trong, th\u1ec9nh tho\u1ea3ng c\u00f3 m\u00e2y",
+            "precipitation": "14%",
+            "humidity": "74%",
+            "wind": "13 km/h",
+            "next_days": [
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "Nhi\u1ec1u m\u00e2y",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "Nhi\u1ec1u m\u00e2y",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "M\u00e2y r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                }
+            ]
+        },
+        {
+            "region": "H\u1ed3 Ch\u00ed Minh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+            "temp_now": "27",
+            "dayhour": "Ch\u1ee7 Nh\u1eadt 21:00",
+            "weather_now": "M\u00e2y r\u1ea3i r\u00e1c",
+            "precipitation": "16%",
+            "humidity": "85%",
+            "wind": "11 km/h",
+            "next_days": [
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "C\u00f3 gi\u00f4ng v\u00e0i n\u01a1i",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                }
+            ]
+        },
+        {
+            "region": "\u0110\u00e0 N\u1eb5ng",
+            "temp_now": "28",
+            "dayhour": "Ch\u1ee7 Nh\u1eadt 21:00",
+            "weather_now": "M\u00e2y r\u1ea3i r\u00e1c",
+            "precipitation": "67%",
+            "humidity": "79%",
+            "wind": "3 km/h",
+            "next_days": [
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "Tr\u1eddi nhi\u1ec1u n\u1eafng",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "C\u00f3 gi\u00f4ng v\u00e0i n\u01a1i",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                }
+            ]
+        },
+        {
+            "region": "H\u00e0 N\u1ed9i, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i",
+            "temp_now": "29",
+            "dayhour": "Ch\u1ee7 Nh\u1eadt 22:00",
+            "weather_now": "Tr\u1eddi trong, th\u1ec9nh tho\u1ea3ng c\u00f3 m\u00e2y",
+            "precipitation": "13%",
+            "humidity": "76%",
+            "wind": "11 km/h",
+            "next_days": [
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "Nhi\u1ec1u m\u00e2y",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "Nhi\u1ec1u m\u00e2y",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "M\u00e2y r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                }
+            ]
+        },
+        {
+            "region": "H\u1ed3 Ch\u00ed Minh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+            "temp_now": "27",
+            "dayhour": "Ch\u1ee7 Nh\u1eadt 22:00",
+            "weather_now": "M\u00e2y r\u1ea3i r\u00e1c",
+            "precipitation": "16%",
+            "humidity": "85%",
+            "wind": "8 km/h",
+            "next_days": [
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "C\u00f3 gi\u00f4ng v\u00e0i n\u01a1i",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                }
+            ]
+        },
+        {
+            "region": "\u0110\u00e0 N\u1eb5ng",
+            "temp_now": "28",
+            "dayhour": "Ch\u1ee7 Nh\u1eadt 22:00",
+            "weather_now": "M\u00e2y r\u1ea3i r\u00e1c",
+            "precipitation": "78%",
+            "humidity": "79%",
+            "wind": "3 km/h",
+            "next_days": [
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "Tr\u1eddi nhi\u1ec1u n\u1eafng",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "C\u00f3 gi\u00f4ng v\u00e0i n\u01a1i",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "26"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                }
+            ]
+        },
+        {
+            "region": "H\u00e0 N\u1ed9i, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i",
+            "temp_now": "30",
+            "dayhour": "Th\u1ee9 Hai 19:00",
+            "weather_now": "Tr\u1eddi trong, th\u1ec9nh tho\u1ea3ng c\u00f3 m\u00e2y",
+            "precipitation": "14%",
+            "humidity": "69%",
+            "wind": "8 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "Nhi\u1ec1u m\u00e2y",
+                    "max_temp": "34",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "Nhi\u1ec1u m\u00e2y",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "C\u00f3 gi\u00f4ng v\u00e0i n\u01a1i",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "C\u00f3 gi\u00f4ng v\u00e0i n\u01a1i",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "C\u00f3 gi\u00f4ng v\u00e0i n\u01a1i",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                }
+            ]
+        },
+        {
+            "region": "H\u1ed3 Ch\u00ed Minh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+            "temp_now": "27",
+            "dayhour": "Th\u1ee9 Hai 19:00",
+            "weather_now": "M\u01b0a r\u00e0o nh\u1eb9",
+            "precipitation": "30%",
+            "humidity": "91%",
+            "wind": "5 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "C\u00f3 gi\u00f4ng v\u00e0i n\u01a1i",
+                    "max_temp": "29",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                }
+            ]
+        },
+        {
+            "region": "\u0110\u00e0 N\u1eb5ng",
+            "temp_now": "29",
+            "dayhour": "Th\u1ee9 Hai 19:00",
+            "weather_now": "Tr\u1eddi trong, th\u1ec9nh tho\u1ea3ng c\u00f3 m\u00e2y",
+            "precipitation": "11%",
+            "humidity": "77%",
+            "wind": "5 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "M\u00e2y r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "26"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                }
+            ]
+        },
+        {
+            "region": "H\u00e0 N\u1ed9i, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i",
+            "temp_now": "31",
+            "dayhour": "Th\u1ee9 Hai 19:00",
+            "weather_now": "Tr\u1eddi trong, th\u1ec9nh tho\u1ea3ng c\u00f3 m\u00e2y",
+            "precipitation": "14%",
+            "humidity": "67%",
+            "wind": "6 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "Nhi\u1ec1u m\u00e2y",
+                    "max_temp": "34",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "Nhi\u1ec1u m\u00e2y",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "M\u00e2y r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "C\u00f3 gi\u00f4ng v\u00e0i n\u01a1i",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                }
+            ]
+        },
+        {
+            "region": "H\u1ed3 Ch\u00ed Minh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+            "temp_now": "26",
+            "dayhour": "Th\u1ee9 Hai 19:00",
+            "weather_now": "M\u01b0a r\u00e0o nh\u1eb9",
+            "precipitation": "30%",
+            "humidity": "91%",
+            "wind": "5 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "C\u00f3 gi\u00f4ng v\u00e0i n\u01a1i",
+                    "max_temp": "29",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                }
+            ]
+        },
+        {
+            "region": "\u0110\u00e0 N\u1eb5ng",
+            "temp_now": "29",
+            "dayhour": "Th\u1ee9 Hai 19:00",
+            "weather_now": "Tr\u1eddi trong, th\u1ec9nh tho\u1ea3ng c\u00f3 m\u00e2y",
+            "precipitation": "11%",
+            "humidity": "77%",
+            "wind": "5 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "C\u00f3 gi\u00f4ng v\u00e0i n\u01a1i",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "26"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                }
+            ]
+        },
+        {
+            "region": "H\u00e0 N\u1ed9i, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i",
+            "temp_now": "30",
+            "dayhour": "Th\u1ee9 Hai 20:00",
+            "weather_now": "Tr\u1eddi trong, th\u1ec9nh tho\u1ea3ng c\u00f3 m\u00e2y",
+            "precipitation": "14%",
+            "humidity": "71%",
+            "wind": "8 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "Nhi\u1ec1u m\u00e2y",
+                    "max_temp": "34",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "Nhi\u1ec1u m\u00e2y",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "M\u00e2y r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "C\u00f3 gi\u00f4ng v\u00e0i n\u01a1i",
+                    "max_temp": "34",
+                    "min_temp": "25"
+                }
+            ]
+        },
+        {
+            "region": "H\u1ed3 Ch\u00ed Minh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+            "temp_now": "26",
+            "dayhour": "Th\u1ee9 Hai 20:00",
+            "weather_now": "M\u01b0a r\u00e0o nh\u1eb9",
+            "precipitation": "7%",
+            "humidity": "92%",
+            "wind": "3 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "C\u00f3 gi\u00f4ng v\u00e0i n\u01a1i",
+                    "max_temp": "29",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                }
+            ]
+        },
+        {
+            "region": "\u0110\u00e0 N\u1eb5ng",
+            "temp_now": "28",
+            "dayhour": "Th\u1ee9 Hai 20:00",
+            "weather_now": "Tr\u1eddi trong, th\u1ec9nh tho\u1ea3ng c\u00f3 m\u00e2y",
+            "precipitation": "9%",
+            "humidity": "78%",
+            "wind": "3 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "M\u00e2y r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "26"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                }
+            ]
+        },
+        {
+            "region": "H\u00e0 N\u1ed9i, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i",
+            "temp_now": "30",
+            "dayhour": "Th\u1ee9 Hai 20:00",
+            "weather_now": "Tr\u1eddi trong, th\u1ec9nh tho\u1ea3ng c\u00f3 m\u00e2y",
+            "precipitation": "14%",
+            "humidity": "72%",
+            "wind": "8 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "Nhi\u1ec1u m\u00e2y",
+                    "max_temp": "34",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "Nhi\u1ec1u m\u00e2y",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "M\u00e2y r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "C\u00f3 gi\u00f4ng v\u00e0i n\u01a1i",
+                    "max_temp": "34",
+                    "min_temp": "25"
+                }
+            ]
+        },
+        {
+            "region": "H\u1ed3 Ch\u00ed Minh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+            "temp_now": "26",
+            "dayhour": "Th\u1ee9 Hai 20:00",
+            "weather_now": "M\u01b0a r\u00e0o nh\u1eb9",
+            "precipitation": "7%",
+            "humidity": "92%",
+            "wind": "3 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "C\u00f3 gi\u00f4ng v\u00e0i n\u01a1i",
+                    "max_temp": "29",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                }
+            ]
+        },
+        {
+            "region": "\u0110\u00e0 N\u1eb5ng",
+            "temp_now": "28",
+            "dayhour": "Th\u1ee9 Hai 20:00",
+            "weather_now": "Tr\u1eddi trong, th\u1ec9nh tho\u1ea3ng c\u00f3 m\u00e2y",
+            "precipitation": "9%",
+            "humidity": "78%",
+            "wind": "3 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "M\u00e2y r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "26"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                }
+            ]
+        },
+        {
+            "region": "H\u00e0 N\u1ed9i, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i",
+            "temp_now": "30",
+            "dayhour": "Th\u1ee9 Hai 20:00",
+            "weather_now": "Tr\u1eddi trong, th\u1ec9nh tho\u1ea3ng c\u00f3 m\u00e2y",
+            "precipitation": "14%",
+            "humidity": "72%",
+            "wind": "10 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "Nhi\u1ec1u m\u00e2y",
+                    "max_temp": "34",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "Nhi\u1ec1u m\u00e2y",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "M\u00e2y r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "C\u00f3 gi\u00f4ng v\u00e0i n\u01a1i",
+                    "max_temp": "34",
+                    "min_temp": "25"
+                }
+            ]
+        },
+        {
+            "region": "H\u1ed3 Ch\u00ed Minh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+            "temp_now": "26",
+            "dayhour": "Th\u1ee9 Hai 20:00",
+            "weather_now": "M\u01b0a r\u00e0o nh\u1eb9",
+            "precipitation": "7%",
+            "humidity": "92%",
+            "wind": "3 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "C\u00f3 gi\u00f4ng v\u00e0i n\u01a1i",
+                    "max_temp": "29",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                }
+            ]
+        },
+        {
+            "region": "\u0110\u00e0 N\u1eb5ng",
+            "temp_now": "28",
+            "dayhour": "Th\u1ee9 Hai 20:00",
+            "weather_now": "Tr\u1eddi trong, th\u1ec9nh tho\u1ea3ng c\u00f3 m\u00e2y",
+            "precipitation": "9%",
+            "humidity": "79%",
+            "wind": "3 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "M\u00e2y r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "26"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                }
+            ]
+        },
+        {
+            "region": "H\u00e0 N\u1ed9i, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i",
+            "temp_now": "30",
+            "dayhour": "Th\u1ee9 Hai 20:00",
+            "weather_now": "Tr\u1eddi trong, th\u1ec9nh tho\u1ea3ng c\u00f3 m\u00e2y",
+            "precipitation": "12%",
+            "humidity": "72%",
+            "wind": "10 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "Nhi\u1ec1u m\u00e2y",
+                    "max_temp": "34",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "Nhi\u1ec1u m\u00e2y",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "M\u00e2y r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "C\u00f3 gi\u00f4ng v\u00e0i n\u01a1i",
+                    "max_temp": "34",
+                    "min_temp": "25"
+                }
+            ]
+        },
+        {
+            "region": "H\u1ed3 Ch\u00ed Minh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+            "temp_now": "26",
+            "dayhour": "Th\u1ee9 Hai 20:00",
+            "weather_now": "Nhi\u1ec1u m\u00e2y",
+            "precipitation": "7%",
+            "humidity": "96%",
+            "wind": "5 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "C\u00f3 gi\u00f4ng v\u00e0i n\u01a1i",
+                    "max_temp": "29",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                }
+            ]
+        },
+        {
+            "region": "\u0110\u00e0 N\u1eb5ng",
+            "temp_now": "28",
+            "dayhour": "Th\u1ee9 Hai 20:00",
+            "weather_now": "M\u00e2y r\u1ea3i r\u00e1c",
+            "precipitation": "9%",
+            "humidity": "79%",
+            "wind": "5 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "M\u00e2y r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "26"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                }
+            ]
+        },
+        {
+            "region": "H\u00e0 N\u1ed9i, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i",
+            "temp_now": "30",
+            "dayhour": "Th\u1ee9 Hai 21:00",
+            "weather_now": "Tr\u1eddi trong, th\u1ec9nh tho\u1ea3ng c\u00f3 m\u00e2y",
+            "precipitation": "12%",
+            "humidity": "72%",
+            "wind": "10 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "Nhi\u1ec1u m\u00e2y",
+                    "max_temp": "34",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "Nhi\u1ec1u m\u00e2y",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "M\u00e2y r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "C\u00f3 gi\u00f4ng v\u00e0i n\u01a1i",
+                    "max_temp": "34",
+                    "min_temp": "25"
+                }
+            ]
+        },
+        {
+            "region": "H\u1ed3 Ch\u00ed Minh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+            "temp_now": "26",
+            "dayhour": "Th\u1ee9 Hai 21:00",
+            "weather_now": "Nhi\u1ec1u m\u00e2y",
+            "precipitation": "7%",
+            "humidity": "96%",
+            "wind": "5 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "C\u00f3 gi\u00f4ng v\u00e0i n\u01a1i",
+                    "max_temp": "29",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                }
+            ]
+        },
+        {
+            "region": "\u0110\u00e0 N\u1eb5ng",
+            "temp_now": "28",
+            "dayhour": "Th\u1ee9 Hai 21:00",
+            "weather_now": "M\u00e2y r\u1ea3i r\u00e1c",
+            "precipitation": "9%",
+            "humidity": "79%",
+            "wind": "5 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "M\u00e2y r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                }
+            ]
+        },
+        {
+            "region": "H\u00e0 N\u1ed9i, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i",
+            "temp_now": "30",
+            "dayhour": "Th\u1ee9 Hai 21:00",
+            "weather_now": "Tr\u1eddi trong, th\u1ec9nh tho\u1ea3ng c\u00f3 m\u00e2y",
+            "precipitation": "12%",
+            "humidity": "72%",
+            "wind": "10 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "Nhi\u1ec1u m\u00e2y",
+                    "max_temp": "34",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "Nhi\u1ec1u m\u00e2y",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "M\u00e2y r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "C\u00f3 gi\u00f4ng v\u00e0i n\u01a1i",
+                    "max_temp": "34",
+                    "min_temp": "25"
+                }
+            ]
+        },
+        {
+            "region": "H\u1ed3 Ch\u00ed Minh, Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+            "temp_now": "26",
+            "dayhour": "Th\u1ee9 Hai 21:00",
+            "weather_now": "Nhi\u1ec1u m\u00e2y",
+            "precipitation": "9%",
+            "humidity": "96%",
+            "wind": "5 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "C\u00f3 gi\u00f4ng v\u00e0i n\u01a1i",
+                    "max_temp": "29",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "31",
+                    "min_temp": "24"
+                }
+            ]
+        },
+        {
+            "region": "\u0110\u00e0 N\u1eb5ng",
+            "temp_now": "28",
+            "dayhour": "Th\u1ee9 Hai 21:00",
+            "weather_now": "M\u00e2y r\u1ea3i r\u00e1c",
+            "precipitation": "9%",
+            "humidity": "79%",
+            "wind": "5 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "M\u00e2y r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "24"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "C\u00f3 gi\u00f4ng r\u1ea3i r\u00e1c",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "33",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "M\u01b0a r\u00e0o c\u00f3 s\u1ea5m s\u00e9t",
+                    "max_temp": "32",
+                    "min_temp": "25"
+                }
+            ]
+        },
+        {
+            "region": "Th\u1eddi ti\u1ebft",
+            "temp_now": "22",
+            "dayhour": "Th\u1ee9 Ba 21:00",
+            "weather_now": "C\u00f3 m\u00e2y",
+            "precipitation": "2%",
+            "humidity": "77%",
+            "wind": "23 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "Tr\u1eddi trong, th\u1ec9nh tho\u1ea3ng c\u00f3 m\u00e2y",
+                    "max_temp": "26",
+                    "min_temp": "19"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "M\u00e2y r\u1ea3i r\u00e1c",
+                    "max_temp": "26",
+                    "min_temp": "19"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "M\u00e2y r\u1ea3i r\u00e1c",
+                    "max_temp": "29",
+                    "min_temp": "18"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u00e2y r\u1ea3i r\u00e1c",
+                    "max_temp": "31",
+                    "min_temp": "20"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "M\u01b0a r\u00e0o r\u1ea3i r\u00e1c",
+                    "max_temp": "27",
+                    "min_temp": "19"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "C\u00f3 m\u00e2y",
+                    "max_temp": "27",
+                    "min_temp": "18"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "C\u00f3 m\u00e2y",
+                    "max_temp": "19",
+                    "min_temp": "14"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "M\u00e2y r\u1ea3i r\u00e1c",
+                    "max_temp": "26",
+                    "min_temp": "17"
+                }
+            ]
+        },
+        {
+            "region": "Th\u1eddi ti\u1ebft",
+            "temp_now": "27",
+            "dayhour": "Th\u1ee9 Ba 21:00",
+            "weather_now": "Tr\u1eddi trong, th\u1ec9nh tho\u1ea3ng c\u00f3 m\u00e2y",
+            "precipitation": "1%",
+            "humidity": "67%",
+            "wind": "14 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "M\u00e2y r\u1ea3i r\u00e1c",
+                    "max_temp": "34",
+                    "min_temp": "21"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "Tr\u1eddi nhi\u1ec1u n\u1eafng",
+                    "max_temp": "34",
+                    "min_temp": "21"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "Tr\u1eddi n\u1eafng",
+                    "max_temp": "34",
+                    "min_temp": "21"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "Tr\u1eddi nhi\u1ec1u n\u1eafng",
+                    "max_temp": "34",
+                    "min_temp": "22"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "Tr\u1eddi nhi\u1ec1u n\u1eafng",
+                    "max_temp": "34",
+                    "min_temp": "22"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "Tr\u1eddi nhi\u1ec1u n\u1eafng",
+                    "max_temp": "34",
+                    "min_temp": "22"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "Tr\u1eddi nhi\u1ec1u n\u1eafng",
+                    "max_temp": "34",
+                    "min_temp": "23"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "Tr\u1eddi n\u1eafng",
+                    "max_temp": "34",
+                    "min_temp": "23"
+                }
+            ]
+        },
+        {
+            "region": "Th\u1eddi ti\u1ebft",
+            "temp_now": "21",
+            "dayhour": "Th\u1ee9 Ba 21:00",
+            "weather_now": "Tr\u1eddi trong, th\u1ec9nh tho\u1ea3ng c\u00f3 m\u00e2y",
+            "precipitation": "2%",
+            "humidity": "84%",
+            "wind": "3 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "Tr\u1eddi trong, th\u1ec9nh tho\u1ea3ng c\u00f3 m\u00e2y",
+                    "max_temp": "26",
+                    "min_temp": "18"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "M\u00e2y r\u1ea3i r\u00e1c",
+                    "max_temp": "26",
+                    "min_temp": "19"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "Tr\u1eddi nhi\u1ec1u n\u1eafng",
+                    "max_temp": "26",
+                    "min_temp": "19"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u00e2y r\u1ea3i r\u00e1c",
+                    "max_temp": "27",
+                    "min_temp": "19"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "Tr\u1eddi n\u1eafng",
+                    "max_temp": "27",
+                    "min_temp": "20"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "M\u00e2y r\u1ea3i r\u00e1c",
+                    "max_temp": "26",
+                    "min_temp": "21"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "C\u00f3 m\u01b0a",
+                    "max_temp": "24",
+                    "min_temp": "19"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "M\u01b0a r\u00e0o r\u1ea3i r\u00e1c",
+                    "max_temp": "24",
+                    "min_temp": "19"
+                }
+            ]
+        },
+        {
+            "region": "Th\u1eddi ti\u1ebft",
+            "temp_now": "21",
+            "dayhour": "Th\u1ee9 Ba 21:00",
+            "weather_now": "C\u00f3 m\u00e2y",
+            "precipitation": "2%",
+            "humidity": "78%",
+            "wind": "23 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "Tr\u1eddi trong, th\u1ec9nh tho\u1ea3ng c\u00f3 m\u00e2y",
+                    "max_temp": "26",
+                    "min_temp": "19"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "M\u00e2y r\u1ea3i r\u00e1c",
+                    "max_temp": "26",
+                    "min_temp": "19"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "M\u00e2y r\u1ea3i r\u00e1c",
+                    "max_temp": "29",
+                    "min_temp": "18"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u00e2y r\u1ea3i r\u00e1c",
+                    "max_temp": "31",
+                    "min_temp": "20"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "M\u01b0a r\u00e0o r\u1ea3i r\u00e1c",
+                    "max_temp": "27",
+                    "min_temp": "19"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "C\u00f3 m\u00e2y",
+                    "max_temp": "27",
+                    "min_temp": "18"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "C\u00f3 m\u00e2y",
+                    "max_temp": "19",
+                    "min_temp": "14"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "M\u00e2y r\u1ea3i r\u00e1c",
+                    "max_temp": "26",
+                    "min_temp": "17"
+                }
+            ]
+        },
+        {
+            "region": "Th\u1eddi ti\u1ebft",
+            "temp_now": "26",
+            "dayhour": "Th\u1ee9 Ba 21:00",
+            "weather_now": "Tr\u1eddi trong, th\u1ec9nh tho\u1ea3ng c\u00f3 m\u00e2y",
+            "precipitation": "1%",
+            "humidity": "67%",
+            "wind": "11 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "M\u00e2y r\u1ea3i r\u00e1c",
+                    "max_temp": "34",
+                    "min_temp": "21"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "Tr\u1eddi nhi\u1ec1u n\u1eafng",
+                    "max_temp": "34",
+                    "min_temp": "21"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "Tr\u1eddi n\u1eafng",
+                    "max_temp": "34",
+                    "min_temp": "21"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "Tr\u1eddi nhi\u1ec1u n\u1eafng",
+                    "max_temp": "34",
+                    "min_temp": "22"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "Tr\u1eddi nhi\u1ec1u n\u1eafng",
+                    "max_temp": "34",
+                    "min_temp": "22"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "Tr\u1eddi nhi\u1ec1u n\u1eafng",
+                    "max_temp": "34",
+                    "min_temp": "22"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "Tr\u1eddi nhi\u1ec1u n\u1eafng",
+                    "max_temp": "34",
+                    "min_temp": "23"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "Tr\u1eddi n\u1eafng",
+                    "max_temp": "34",
+                    "min_temp": "23"
+                }
+            ]
+        },
+        {
+            "region": "Th\u1eddi ti\u1ebft",
+            "temp_now": "21",
+            "dayhour": "Th\u1ee9 Ba 21:00",
+            "weather_now": "Tr\u1eddi trong, th\u1ec9nh tho\u1ea3ng c\u00f3 m\u00e2y",
+            "precipitation": "2%",
+            "humidity": "84%",
+            "wind": "3 km/h",
+            "next_days": [
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "Tr\u1eddi trong, th\u1ec9nh tho\u1ea3ng c\u00f3 m\u00e2y",
+                    "max_temp": "26",
+                    "min_temp": "18"
+                },
+                {
+                    "name": "Th\u1ee9 T\u01b0",
+                    "weather": "M\u00e2y r\u1ea3i r\u00e1c",
+                    "max_temp": "26",
+                    "min_temp": "19"
+                },
+                {
+                    "name": "Th\u1ee9 N\u0103m",
+                    "weather": "Tr\u1eddi nhi\u1ec1u n\u1eafng",
+                    "max_temp": "26",
+                    "min_temp": "19"
+                },
+                {
+                    "name": "Th\u1ee9 S\u00e1u",
+                    "weather": "M\u00e2y r\u1ea3i r\u00e1c",
+                    "max_temp": "27",
+                    "min_temp": "19"
+                },
+                {
+                    "name": "Th\u1ee9 B\u1ea3y",
+                    "weather": "Tr\u1eddi n\u1eafng",
+                    "max_temp": "27",
+                    "min_temp": "20"
+                },
+                {
+                    "name": "Ch\u1ee7 Nh\u1eadt",
+                    "weather": "M\u00e2y r\u1ea3i r\u00e1c",
+                    "max_temp": "26",
+                    "min_temp": "21"
+                },
+                {
+                    "name": "Th\u1ee9 Hai",
+                    "weather": "C\u00f3 m\u01b0a",
+                    "max_temp": "24",
+                    "min_temp": "19"
+                },
+                {
+                    "name": "Th\u1ee9 Ba",
+                    "weather": "M\u01b0a r\u00e0o r\u1ea3i r\u00e1c",
+                    "max_temp": "24",
+                    "min_temp": "19"
+                }
+            ]
+        }
+    ]
+}
